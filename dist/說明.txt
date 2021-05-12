@@ -1,0 +1,7 @@
+
+使用方法:
+  dxf2png.exe source.dxf output.png
+  
+  例如:
+  dxf2png.exe 95164029.dxf 95164029.png
+  dxf2png.exe 95181024.dxf 95181024.png
