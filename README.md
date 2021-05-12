@@ -3,7 +3,8 @@
 <img src="screenshot/95164029.png">
 <br>
 作者：<br>
-  Feather Mountain (https://3wa.tw)<br>
+  (2020) Hamza Mohamed Abd Al Hakeem<br>
+  (2021) Feather Mountain (https://3wa.tw)<br>
 License：<br>
   MIT<br>
 編譯方法：<br>
