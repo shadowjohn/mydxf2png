@@ -1,6 +1,10 @@
 # mydxf2png
 將 dxf 輸出 png<br>
 <br>
+作者：<br>
+  Feather Mountain (https://3wa.tw)<br>
+License：<br>
+  MIT<br>
 編譯方法：<br>
 <ul>
   <li>1. install miniconda : https://repo.anaconda.com/miniconda/Miniconda3-py39_4.9.2-Windows-x86_64.exe</li>
